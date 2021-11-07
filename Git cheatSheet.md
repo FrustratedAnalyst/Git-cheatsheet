@@ -65,7 +65,7 @@ We can add a  message to every commit to make them more informative, we can do t
 ```git commit -m "message"```
 
 ### **6. git diff**:
-git diff is a multi-use Git command that when executed runs a diff function on Git data sources. These data sources can be commits, branches, files and more. ... The git diff command is often used along with git status and git log to analyze the current state of a Git repo.
+git diff is a multi-use Git command that when executed runs a diff function on Git data sources. These data sources can be commits, branches, files and more. The git diff command is often used along with git status and git log to analyze the current state of a Git repo.
 
 ### syntax
 
