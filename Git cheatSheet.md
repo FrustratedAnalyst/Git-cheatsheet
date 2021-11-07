@@ -53,7 +53,7 @@ The git add command adds a file to the Git staging area. This area contains a li
 ```git add file_name```
 
 ### **5. git commit**:
-The git commit command captures a snapshot of the project's currently staged changes. Committed snapshots can be thought of as “safe” versions of a project—Git will never change them unless you explicitly ask it to. ... These two commands git commit and git add are two of the most frequently used.
+The git commit command captures a snapshot of the project's currently staged changes. Committed snapshots can be thought of as “safe” versions of a project—Git will never change them unless you explicitly ask it to. These two commands git commit and git add are two of the most frequently used.
 
 ### syntax
 
